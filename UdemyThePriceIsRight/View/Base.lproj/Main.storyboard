@@ -283,7 +283,7 @@
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="9zF-51-dhg">
                                 <rect key="frame" x="16" y="381" width="343" height="50"/>
                                 <subviews>
-                                    <slider opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="100" minValue="35" maxValue="600" translatesAutoresizingMaskIntoConstraints="NO" id="UXz-Dh-IIY">
+                                    <slider opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="100" minValue="35" maxValue="500" translatesAutoresizingMaskIntoConstraints="NO" id="UXz-Dh-IIY">
                                         <rect key="frame" x="-2" y="10" width="254" height="31"/>
                                         <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
